@@ -9,7 +9,7 @@ public class CalculatorTests
     [TestMethod]
     public void TestGetDict()
     {
-        Calculator c = new();
+        Calculator c = new("p");
         c.AddValue("a", "b");
         Assert.AreEqual("b", c.getValue("a"));
         c.AddValue("a", "c");

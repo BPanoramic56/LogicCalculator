@@ -17,9 +17,11 @@ namespace LogicCalculator;
 public class Calculator{
 
     private static Dictionary<string, string> ValueDict = new();
+    private static Formula PostFormula;
 
-    public Calculator(){
+    public Calculator(string FormulaString){
         ValueDict = new();
+        PostFormula = new Formula(FormulaString);
     }   
 
     public Calculator(Dictionary<string, string> values){
