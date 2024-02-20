@@ -2308,11 +2308,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/brunogomespascotto/Projects/LogicCalculator/StringLibraryTest/StringLibraryTest.csproj",
-      "projectName": "StringLibraryTest",
-      "projectPath": "/Users/brunogomespascotto/Projects/LogicCalculator/StringLibraryTest/StringLibraryTest.csproj",
+      "projectUniqueName": "/Users/brunogomespascotto/Projects/LogicCalculator/CalculatorLibraryTest/CalculatorLibraryTest.csproj",
+      "projectName": "CalculatorLibraryTest",
+      "projectPath": "/Users/brunogomespascotto/Projects/LogicCalculator/CalculatorLibraryTest/CalculatorLibraryTest.csproj",
       "packagesPath": "/Users/brunogomespascotto/.nuget/packages/",
-      "outputPath": "/Users/brunogomespascotto/Projects/LogicCalculator/StringLibraryTest/obj/",
+      "outputPath": "/Users/brunogomespascotto/Projects/LogicCalculator/CalculatorLibraryTest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/brunogomespascotto/.nuget/NuGet/NuGet.Config"

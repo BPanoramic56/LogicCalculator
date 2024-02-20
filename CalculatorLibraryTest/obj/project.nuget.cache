@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X6P4Xxi2XSkJZ34wNHwX9Qu3sHkrPEy2sKQx+cmnC3rYJHM8fOFyJhafgPa08nvny0Q0rSBE/0JSqWIQU649Iw==",
+  "dgSpecHash": "+lWPZz8Z8PNvx2lEwTcl8Alf+3dRARRM8tvjuVanWuELn4DFbQwlXMIsXgIzxMS8AjtO+a1zahImWl5wT+JQwA==",
   "success": true,
-  "projectFilePath": "/Users/brunogomespascotto/Projects/LogicCalculator/StringLibraryTest/StringLibraryTest.csproj",
+  "projectFilePath": "/Users/brunogomespascotto/Projects/LogicCalculator/CalculatorLibraryTest/CalculatorLibraryTest.csproj",
   "expectedPackageFiles": [
     "/Users/brunogomespascotto/.nuget/packages/coverlet.collector/3.2.0/coverlet.collector.3.2.0.nupkg.sha512",
     "/Users/brunogomespascotto/.nuget/packages/microsoft.codecoverage/17.5.0/microsoft.codecoverage.17.5.0.nupkg.sha512",
