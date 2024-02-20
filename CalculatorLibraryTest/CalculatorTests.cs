@@ -1,4 +1,4 @@
-namespace Calculator;
+namespace LogicCalculator;
 
 [TestClass]
 public class CalculatorTests
@@ -9,8 +9,10 @@ public class CalculatorTests
     [TestMethod]
     public void TestGetDict()
     {
-        Calculator c = new Calculator();
+        Calculator c = new();
         c.AddValue("a", "b");
         Assert.AreEqual("b", c.getValue("a"));
+        c.AddValue("a", "c");
+        Assert.AreEqual("c", c.getValue("a"));
     }
 }

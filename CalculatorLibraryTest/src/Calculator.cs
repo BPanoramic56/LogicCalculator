@@ -1,4 +1,4 @@
-namespace Calculator
+namespace LogicCalculator;
 
 /// <summary>
 /// <para>
@@ -18,7 +18,7 @@ public class Calculator{
 
     private static Dictionary<string, string> ValueDict = new();
 
-    public Calculator(string Validator){
+    public Calculator(){
         ValueDict = new();
     }   
 
